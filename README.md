@@ -24,9 +24,9 @@
 ## ⌛ Общая активность на GitHub:
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=KIoppert&show_icons=true&count_private=true">
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=KIoppert&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/KIoppert/github-readme-stats">
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIoppert&layout=compact"/></a>
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=KIoppert&show_icons=true&count_private=true&theme=chartreuse-dark"/></a>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KIoppert&layout=compact&theme=merko">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIoppert&layout=compact&theme=chartreuse-dark"/></a>
 </p>
 
 <p align='center'>
