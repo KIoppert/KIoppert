@@ -41,5 +41,5 @@
 - **Python:**
   - [Небольшая социальная сеть](https://github.com/KIoppert/SimpleFlaskAPI)
   - [3 проекта, сделанные в ходе обучения на курсе Python от ШАДа](https://github.com/KIoppert/PythonProjects)
-- Go
+- **Go**
   - [Веб-сервис контроллера умного дома](https://github.com/KIoppert/go-smart-home)
