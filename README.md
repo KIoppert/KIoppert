@@ -39,7 +39,7 @@
 
 ## 🔑 Мои проекты:
 - **Python:**
-  - [Активная помощь в разработке Manytask](https://github.com/manytask)
+  - [Разработка Manytask](https://github.com/manytask)
   - [Небольшая социальная сеть](https://github.com/KIoppert/SimpleFlaskAPI)
   - [3 проекта, сделанные в ходе обучения на курсе Python от ШАДа](https://github.com/KIoppert/PythonProjects)
 - **Go**
